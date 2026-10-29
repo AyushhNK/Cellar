@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Cellar
+Comment=Encrypted password vault
+Exec=cellar
+Icon=cellar
+StartupWMClass=cellar
+Terminal=false
+Categories=Utility;Security;
+Keywords=password;vault;
